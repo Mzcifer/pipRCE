@@ -1,0 +1,1 @@
+copy /b test0.png + test0.zip test010.png
